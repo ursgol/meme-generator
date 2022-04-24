@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c4d81502-58ce-4ca6-b1d1-c4f2d9383a0a/deploy-status)](https://app.netlify.com/sites/meme-generator-cyberula/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
